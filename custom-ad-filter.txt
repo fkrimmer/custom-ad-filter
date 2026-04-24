@@ -12,3 +12,6 @@ wetter.com##.tipsy:remove()
 wetter.com##.werbung:remove()
 wetter.com##[class*="werbung"]:remove()
 wetter.com##[id*="werbung"]:remove()
+
+! Protonmail
+mail.proton.me##[class*="promotion"]
