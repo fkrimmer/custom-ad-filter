@@ -15,6 +15,7 @@ wetter.com###pictureNewsWithRightText
 wetter.com###taboola-widget
 wetter.com##div[data-wettersocial]
 wetter.com##div[data-module="forecast-layout1-additional"]
+wetter.com##ins
 
 wetter.com##.tipsy-inner-fixed:remove()
 wetter.com##.tipsy:remove()
