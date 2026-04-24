@@ -18,3 +18,6 @@ mail.proton.me##[class*="promotion"]
 
 ! Gemini
 gemini.google.com##[class*="upsell"]
+
+! Reddit
+reddit.com##[class="promotedlink"]
