@@ -4,27 +4,35 @@
 ##a[href*="x.com"]
 
 ! Wetter.com
+wetter.com##.tipsy-inner-fixed
+wetter.com##.tipsy
 wetter.com##.werbung
+wetter.com##.cityweather
+wetter.com###pictureNewsWithRightText
+wetter.com###taboola-widget
+wetter.com##div[data-wettersocial]
+wetter.com##div[data-module="forecast-layout1-additional"]
+wetter.com##ins
+wetter.com##.lity
+wetter.com##.cw-3-2-1--grid
+wetter.com##footer
+
+wetter.com##.tipsy-inner-fixed:remove()
+wetter.com##.tipsy:remove()
 wetter.com##.werbung:remove()
+wetter.com##[class*="werbung"]:remove()
+wetter.com##[id*="werbung"]:remove()
 
-! --- wetter.com Tracking & Metrics ---
+! Javascript
 ||wetter.com/metrics/*$xhr,script
-
-! --- Werbenetzwerke & Empfehlungen ---
 ||cdn.taboola.com^
 ||a.teads.tv^
 ||rumcdn.geoedge.be^
-
-! --- Analyse & Tracking ---
 ||survey.survicate.com^
 ||connect.facebook.net/en_US/fbevents.js
 ||dmp.theadex.com^
-
-! --- App-Promotion & Push ---
 ||cdn.adjust.com^
 ||cdn.pushwoosh.com^
-
-! --- Bot-Erkennung & Fingerprinting ---
 ||openfpcdn.io^
 
 ! Protonmail
