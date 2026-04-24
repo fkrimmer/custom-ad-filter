@@ -3,6 +3,7 @@
 
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
+##a[href*="share=x"]
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
