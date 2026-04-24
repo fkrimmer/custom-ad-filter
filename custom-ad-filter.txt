@@ -1,35 +1,7 @@
 ! Title: My Custom Filter
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-##a[href*="x.com"]
-
-! Wetter.com
-wetter.com##.tipsy-inner-fixed
-wetter.com##.tipsy
-wetter.com##.werbung
-wetter.com##.cityweather
-wetter.com###pictureNewsWithRightText
-wetter.com###taboola-widget
-wetter.com##ins
-wetter.com##.lity
-wetter.com##.cw-3-2-1--grid
-wetter.com##.tipsy-inner-fixed:remove()
-wetter.com##.tipsy:remove()
-wetter.com##.werbung:remove()
-wetter.com##[class*="werbung"]:remove()
-wetter.com##[id*="werbung"]:remove()
-
-! Javascript
-||wetter.com/metrics/*$xhr,script
-||cdn.taboola.com^
-||a.teads.tv^
-||rumcdn.geoedge.be^
-||survey.survicate.com^
-||connect.facebook.net/en_US/fbevents.js
-||dmp.theadex.com^
-||cdn.adjust.com^
-||cdn.pushwoosh.com^
-||openfpcdn.io^
+##a[href*="x.com]
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
