@@ -1,0 +1,7 @@
+##.werbung:style(display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;)
+wetter.com##.tipsy-inner-fixed:style(display: none !important;)
+wetter.com##.tipsy:style(display: none !important;)
+##.werbung:remove-class(show)
+##.werbung:remove-attr(style)
+wetter.com##[class*="werbung"]:style(display: none !important;)
+wetter.com##[id*="werbung"]:style(display: none !important;)
