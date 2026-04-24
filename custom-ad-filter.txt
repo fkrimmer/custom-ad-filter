@@ -7,9 +7,11 @@
 wetter.com##.tipsy-inner-fixed
 wetter.com##.tipsy
 wetter.com##.werbung
+wetter.com##.cityweather
 wetter.com##[class*="werbung"]
 wetter.com##[id*="werbung"]
 wetter.com###google_ads_frame1
+wetter.com###pictureNewsWithRightText
 
 wetter.com##.tipsy-inner-fixed:remove()
 wetter.com##.tipsy:remove()
