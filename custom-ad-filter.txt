@@ -20,6 +20,5 @@ mail.proton.me##[class*="promotion"]
 gemini.google.com##[class*="upsell"]
 
 ! Reddit
-reddit.com##[class="promotedlink"]
-reddit.com##shreddit-dynamic-ad-link
+reddit.com##.promotedlink
 reddit.com##shreddit-dynamic-ad-link:remove()
