@@ -2,6 +2,7 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ##a[href*="x.com"]
+##a[href*="twitter.com"]
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
