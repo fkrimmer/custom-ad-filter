@@ -8,7 +8,7 @@
 ! Wetter.de
 wetter.com##div:has(> div > div[class*="ad"])
 wetter.com##div:has(> div > div > div[class*="ad"])
-wetter.com##div:has(> div > div > div > div[class*="ad"])
+wetter.com##div:has(> div > div > div > div[class*="a"])
 
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
