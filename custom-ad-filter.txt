@@ -11,6 +11,8 @@ wetter.com##div:has(> div > [class*="ad-slot"])
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
 brasswiesn.de##.wt-cli-cookie-bar-container
+brasswiesn.de##.cli-modal
+brasswiesn.de###cookie-law-info-again
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
