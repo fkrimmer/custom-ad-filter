@@ -7,7 +7,7 @@
 
 ! Wetter.de
 ! --- 1. Ebene: Direktes Elternteil ---
-wetter.de##*:has(> div > [class*="-ad-slot"])
+wetter.de##div:has([class*="-ad-slot"])
 
 ! --- 3. Ebene: Ur-Großelternteil ---
 wetter.de##div:has(> div > div > [class*="-ad-slot"])
