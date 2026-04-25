@@ -6,9 +6,9 @@
 ##a[href*="share=x"]
 
 ! Wetter.de
-wetter.com##div:has(.guj-ad-slot)
-wetter.com##div:has(.base-ad-slot)
-wetter.com##div:has(.outbrain-ad-slot)
+wetter.com##.guj-ad-slot
+wetter.com##.base-ad-slot
+wetter.com##.outbrain-ad-slot
 
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
