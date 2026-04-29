@@ -13,7 +13,7 @@ brasswiesn.de##.cli-modal
 brasswiesn.de###cookie-law-info-again
 
 ! XDA
-xda-developers.com##aside
+xda-developers.com##.w-quick-action-sidebar
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
