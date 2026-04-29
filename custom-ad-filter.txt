@@ -12,6 +12,9 @@ brasswiesn.de##.wt-cli-cookie-bar-container
 brasswiesn.de##.cli-modal
 brasswiesn.de###cookie-law-info-again
 
+! XDA
+xda-developers.con##aside
+
 ! Protonmail
 mail.proton.me##[class*="promotion"]
 
