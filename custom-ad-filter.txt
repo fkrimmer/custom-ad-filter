@@ -15,7 +15,7 @@ brasswiesn.de###cookie-law-info-again
 ! XDA
 xda-developers.com##.w-quick-action-sidebar
 xda-developers.com##^dialog
-xda-developers.com##body:style(overflow: auto !important; position: static !important;)
+! xda-developers.com##body:style(overflow: auto !important; position: static !important;)
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
