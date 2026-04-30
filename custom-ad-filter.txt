@@ -1,6 +1,9 @@
 ! Title: My Custom Filter
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+! Social Media
+##[class*="social"]
+||x.com^
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
@@ -14,10 +17,6 @@ brasswiesn.de###cookie-law-info-again
 
 ! XDA
 xda-developers.com##.w-quick-action-sidebar
-xda-developers.com##dialog.adblock
-xda-developers.com##.adblock
-xda-developers.com##html:style(overflow: auto !important; height: auto !important;)
-xda-developers.com##body:style(overflow: auto !important; height: auto !important; position: static !important;)
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
