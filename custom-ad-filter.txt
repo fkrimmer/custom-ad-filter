@@ -3,8 +3,8 @@
 
 ! Social Media
 ##[class*="social"]
-||x.com^$all
-||twitter.com^$all
+||x.com^$empty,important
+||twitter.com^$empty,important
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
