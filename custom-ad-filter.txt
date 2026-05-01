@@ -10,6 +10,7 @@
 ! Accessibility & Chats Widgets
 ||*/eyeable.js$script
 ||*chat*
+||*bot*
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
