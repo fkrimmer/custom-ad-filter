@@ -7,8 +7,9 @@
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
 
-! Accessibility Widgets
+! Accessibility & Chats Widgets
 ||*/eyeable.js$script
+||chat-app.neurabot.de^
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
