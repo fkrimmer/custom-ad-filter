@@ -9,6 +9,9 @@
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
+tripadvisor.de##[id*="ads"]
+tripadvisor.com##[data-sponsored]
+tripadvisor.com##[id*="ads"]
 
 ! Brass Wiesn
 brasswiesn.de##img
