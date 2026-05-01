@@ -7,7 +7,7 @@
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
 
-! Accessibility & Chats Widgets
+! Accessibility & Chat Widgets
 ||*/eyeable.js$script
 ||*chat*
 ||*bot*
