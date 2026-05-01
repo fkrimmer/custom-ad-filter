@@ -8,10 +8,12 @@
 ##a[href*="share=x"]
 
 ! Accessibility & Chat Widgets
-##[id*="eyeable" i]
-##[class*="eyeable" i]
-##[id*="chat" i]
-##[class*="chat" i]
+##[id*="eyeable"]
+##[class*="eyeable"]
+##[id*="eyeAble"]
+##[class*="eyeAble"]
+##[id*="chat"]
+##[class*="chat"]
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
