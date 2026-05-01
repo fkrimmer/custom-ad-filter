@@ -8,7 +8,7 @@
 ##a[href*="share=x"]
 
 ! Tripadvisor
-tripadvisor.de##.momer
+tripadvisor.de##[data-sponsored]
 
 ! Brass Wiesn
 brasswiesn.de##img
