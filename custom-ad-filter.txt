@@ -9,7 +9,7 @@
 
 ! Accessibility & Chats Widgets
 ||*/eyeable.js$script
-||chat-app.neurabot.de^
+||*chat*
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
