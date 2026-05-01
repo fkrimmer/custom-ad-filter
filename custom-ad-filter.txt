@@ -7,6 +7,9 @@
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
 
+! Accessibility Widgets
+||*/eyeable.js$script
+
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
 tripadvisor.de##[id*="ads"]
