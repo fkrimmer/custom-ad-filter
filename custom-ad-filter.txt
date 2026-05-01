@@ -13,6 +13,7 @@ tripadvisor.de##[id*="ads"]
 tripadvisor.de##[id*="slot"]
 tripadvisor.com##[data-sponsored]
 tripadvisor.com##[id*="ads"]
+tripadvisor.com##[id*="slot"]
 
 ! Brass Wiesn
 brasswiesn.de##img
