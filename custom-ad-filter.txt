@@ -8,7 +8,7 @@
 ##a[href*="share=x"]
 
 ! Accessibility & Chat Widgets
-||*/eyeable.js$script
+eching.de||*/eyeable.js$script
 eching.de||*chat*
 
 ! Tripadvisor
