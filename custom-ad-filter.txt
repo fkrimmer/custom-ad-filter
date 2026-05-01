@@ -9,7 +9,7 @@
 
 ! Accessibility & Chat Widgets
 ||*/eyeable.js$script
-||*bot*
+eching.de||*chat*
 
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
