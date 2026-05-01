@@ -16,6 +16,7 @@
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
+seo-suedwest.de##.moduletable 
 
 ! Echinger Echo
 echinger-echo##l-subheader.at_middle
