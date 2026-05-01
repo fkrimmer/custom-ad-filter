@@ -14,6 +14,12 @@
 ##[id*="chat"]
 ##[class*="chat"]
 
+! seo-suedwest
+seo-suedwest.de##.fnet-panel-childs
+
+! Echinger Echo
+echinger-echo##l-subheader.at_middle
+
 ! Tripadvisor
 tripadvisor.de##[data-sponsored]
 tripadvisor.de##[id*="ads"]
