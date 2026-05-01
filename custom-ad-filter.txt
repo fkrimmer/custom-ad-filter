@@ -9,7 +9,6 @@
 
 ! Tripadvisor
 tripadvisor.de##.momer
-||static.tacdn.com^
 
 ! Brass Wiesn
 brasswiesn.de##img
