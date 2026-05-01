@@ -12,6 +12,10 @@
 ##[class*="eyeable"]
 ##[id*="eyeAble"]
 ##[class*="eyeAble"]
+##[id*="eyeable"]
+##[class*="eyeable"]
+##[id*="EyeAble"]
+##[class*="EyeAble"]
 ##[id*="chat"]
 ##[class*="chat"]
 
