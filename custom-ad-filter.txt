@@ -10,7 +10,6 @@
 ! Accessibility & Chat Widgets
 ##[id*="eyeable"]
 ##[id*="eyeAble"]
-##[id*="eyeable"]
 ##[id*="EyeAble"]
 ##[id*="chat"]
 ##[class*="chat"]
