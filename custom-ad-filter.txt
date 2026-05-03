@@ -11,8 +11,6 @@
 ##[id*="eyeable"]
 ##[id*="eyeAble"]
 ##[id*="EyeAble"]
-##[id*="chat"]
-##[class*="chat"]
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
