@@ -1,6 +1,7 @@
 ! Title: My Custom Filter
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+
 ! Social Media
 ##[href*="x.com"]
 ##[href*="twitter.com"]
@@ -23,17 +24,6 @@
 ##iframe[src*="syndication.twitter.com"]
 ##.twitter-share-button
 ##.x-share-button
-
-##focus.de##.social-share__item--twitter
-##focus.de##.social-share__item--x
-##focus.de##a[title*="X"]
-##focus.de##a[title*="Twitter"]
-##focus.de##a[aria-label*="X"]
-##focus.de##a[aria-label*="Twitter"]
-##focus.de##.icon-social-x
-##focus.de##.icon-social-twitter
-##a[href*="focus.de"][href*="twitter"]
-##a[href*="focus.de"][href*="x.com"]
 
 ! Accessibility & Chat Widgets
 ##[id*="eyeable"]
@@ -75,3 +65,6 @@ gemini.google.com##[class*="upsell"]
 reddit.com##.promotedlink
 reddit.com##shreddit-dynamic-ad-link:remove()
 reddit.com##aside
+
+focus.de##body:style(background-color: red !important;)
+focus.de##main
