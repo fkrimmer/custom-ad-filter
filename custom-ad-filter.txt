@@ -2,8 +2,8 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ! Social Media
-##a[href*="x.com"]
-##a[href*="twitter.com"]
+##[href*="x.com"]
+##[href*="twitter.com"]
 ##a[href*="share=x"]
 ##a[href*="share=twitter"]
 ##a[href*="intent/tweet"]
