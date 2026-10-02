@@ -1,30 +1,6 @@
 ! Title: My Custom Filter
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-
-! Social Media
-##[href*="x.com"]
-##[href*="twitter.com"]
-##a[href*="share=x"]
-##a[href*="share=twitter"]
-##a[href*="intent/tweet"]
-##a[href*="intent/post"]
-##svg[data-icon="x-twitter"]
-##svg[data-icon="twitter"]
-##svg[class*="fa-x-twitter"]
-##svg[class*="fa-twitter"]
-##svg[aria-label*="X"]
-##svg[aria-label*="Twitter"]
-##.fa-x-twitter
-##.fa-twitter
-##.bi-twitter
-##.icon-x
-##.icon-twitter
-##iframe[src*="platform.twitter.com"]
-##iframe[src*="syndication.twitter.com"]
-##.twitter-share-button
-##.x-share-button
-
 ! Accessibility & Chat Widgets
 ##[id*="eyeable"]
 ##[id*="eyeAble"]
@@ -66,5 +42,42 @@ reddit.com##.promotedlink
 reddit.com##shreddit-dynamic-ad-link:remove()
 reddit.com##aside
 
-focus.de##body:style(background-color: red !important;)
-focus.de##main
+! x.com
+##a[href*="x.com"]
+##a[href*="twitter.com"]
+##a[href*="t.co"]
+##a[href*="share=x"]
+##a[href*="share=twitter"]
+##a[href*="intent/tweet"]
+##a[href*="intent/post"]
+##a[href*="screen_name="]
+##svg[data-icon*="twitter"]
+##svg[data-icon*="x"]
+##svg[class*="twitter"]
+##svg[class*="x"]
+##svg[aria-label*="X"]
+##svg[aria-label*="Twitter"]
+##svg[title*="Twitter"]
+##svg[title*="X"]
+##[class*="twitter"]
+##[class*="x-icon"]
+##[class*="x-share"]
+##[class*="social-x"]
+##[class*="icon-x"]
+##[id*="twitter"]
+##[id*="x-share"]
+##[data-social*="twitter"]
+##[data-social*="x"]
+##[data-service*="twitter"]
+##[data-service*="x"]
+##[data-element*="twitter"]
+##[data-element*="x"]
+##[data-share*="twitter"]
+##[data-share*="x"]
+##*:has(> a[href*="x.com"])
+##*:has(> a[href*="twitter.com"])
+##*:has(> svg[aria-label*="Twitter"])
+##*:has(> svg[aria-label*="X"])
+##iframe[src*="twitter.com"]
+##iframe[src*="x.com"]
+##iframe[id*="twitter"]
