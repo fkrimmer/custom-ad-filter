@@ -2,10 +2,27 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ! Social Media
-##[class*="social"]
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
+##a[href*="share=twitter"]
+##a[href*="intent/tweet"]
+##a[href*="intent/post"]
+##svg[data-icon="x-twitter"]
+##svg[data-icon="twitter"]
+##svg[class*="fa-x-twitter"]
+##svg[class*="fa-twitter"]
+##svg[aria-label*="X"]
+##svg[aria-label*="Twitter"]
+##.fa-x-twitter
+##.fa-twitter
+##.bi-twitter
+##.icon-x
+##.icon-twitter
+##iframe[src*="platform.twitter.com"]
+##iframe[src*="syndication.twitter.com"]
+##.twitter-share-button
+##.x-share-button
 
 ! Accessibility & Chat Widgets
 ##[id*="eyeable"]
