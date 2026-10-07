@@ -3,8 +3,8 @@
 
 ! Accessibility & Chat Widgets
 ##[id*="eyeable"]
-[id*="eyeAble"]
-[id*="EyeAble"]
+##[id*="eyeAble"]
+##[id*="EyeAble"]
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
