@@ -14,28 +14,21 @@ seo-suedwest.de##[class*="moduletable"]
 echinger-echo##l-subheader.at_middle
 
 ! Tripadvisor
-tripadvisor.de##[data-sponsored]
-tripadvisor.de##[id*="ads"]
-tripadvisor.de##[id*="slot"]
-tripadvisor.com##[data-sponsored]
-tripadvisor.com##[id*="ads"]
-tripadvisor.com##[id*="slot"]
-
-! Brass Wiesn
-brasswiesn.de##img
-brasswiesn.de##.slider-wrapper
-brasswiesn.de##.wt-cli-cookie-bar-container
-brasswiesn.de##.cli-modal
-brasswiesn.de###cookie-law-info-again
+! tripadvisor.de##[data-sponsored]
+! tripadvisor.de##[id*="ads"]
+! tripadvisor.de##[id*="slot"]
+! tripadvisor.com##[data-sponsored]
+! tripadvisor.com##[id*="ads"]
+! tripadvisor.com##[id*="slot"]
 
 ! XDA
-xda-developers.com##.w-quick-action-sidebar
+! xda-developers.com##.w-quick-action-sidebar
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
 
 ! Gemini
-gemini.google.com##[class*="upsell"]
+! gemini.google.com##[class*="upsell"]
 
 ! Reddit
 ! reddit.com##.promotedlink
