@@ -44,7 +44,7 @@ gemini.google.com##[class*="upsell"]
 
 ! x.com
 ! ##a[href*="x.com"]
-##a[href*="twitter.com"]
-##a[href*="t.co"]
-##[class*="twitter"]
+! ##a[href*="twitter.com"]
+! ##a[href*="t.co"]
+! ##[class*="twitter"]
 ! ##*:has(a[href*="x.com"])
