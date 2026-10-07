@@ -36,9 +36,7 @@ reddit.com##shreddit-dynamic-ad-link:remove()
 reddit.com##aside
 
 ! Social
-##.global-footer
-##ul[class*="social"]
-##li[class*="social"]
+wordpress.org##.wp-block-social-links
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="t.co"]
