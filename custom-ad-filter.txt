@@ -36,7 +36,8 @@ reddit.com##shreddit-dynamic-ad-link:remove()
 reddit.com##aside
 
 ! Social
-##*[class*="social"]
+##ul[class*="social"]
+##li[class*="social"]
 ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="t.co"]
