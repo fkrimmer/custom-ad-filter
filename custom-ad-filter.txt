@@ -43,15 +43,8 @@ gemini.google.com##[class*="upsell"]
 ! reddit.com##aside
 
 ! x.com
-##a[href*="x.com"]
+! ##a[href*="x.com"]
 ##a[href*="twitter.com"]
 ##a[href*="t.co"]
 ##[class*="twitter"]
-##[class*="x-share"]
-##[class*="social-x"]
-##[id*="twitter"]
-##[data-social*="twitter"]
-##[data-service*="twitter"]
-##[data-element*="twitter"]
-##[data-share*="twitter"]
-##*:has(a[href*="x.com"])
+! ##*:has(a[href*="x.com"])
