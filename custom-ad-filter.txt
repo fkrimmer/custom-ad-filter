@@ -63,7 +63,6 @@ reddit.com##aside
 ##[data-service*="twitter"]
 ##[data-element*="twitter"]
 ##[data-share*="twitter"]
-##*:has(> a[href*="x.com"])
 ##*:has(> a[href*="twitter.com"])
 ##*:has(> svg[aria-label*="Twitter"])
 ##iframe[src*="twitter.com"]
