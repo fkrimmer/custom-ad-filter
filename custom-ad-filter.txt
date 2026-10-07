@@ -38,9 +38,7 @@ mail.proton.me##[class*="promotion"]
 gemini.google.com##[class*="upsell"]
 
 ! Reddit
-reddit.com##.promotedlink
 
-reddit.com##aside
 
 ! x.com
 ##a[href*="x.com"]
