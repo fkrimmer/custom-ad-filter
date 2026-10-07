@@ -14,30 +14,30 @@ seo-suedwest.de##[class*="moduletable"]
 echinger-echo##l-subheader.at_middle
 
 ! Tripadvisor
-! tripadvisor.de##[data-sponsored]
-! tripadvisor.de##[id*="ads"]
-! tripadvisor.de##[id*="slot"]
-! tripadvisor.com##[data-sponsored]
-! tripadvisor.com##[id*="ads"]
-! tripadvisor.com##[id*="slot"]
+tripadvisor.de##[data-sponsored]
+tripadvisor.de##[id*="ads"]
+tripadvisor.de##[id*="slot"]
+tripadvisor.com##[data-sponsored]
+tripadvisor.com##[id*="ads"]
+tripadvisor.com##[id*="slot"]
 
 ! XDA
-! xda-developers.com##.w-quick-action-sidebar
+xda-developers.com##.w-quick-action-sidebar
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
 
 ! Gemini
-! gemini.google.com##[class*="upsell"]
+gemini.google.com##[class*="upsell"]
 
 ! Reddit
-! reddit.com##.promotedlink
-! reddit.com##shreddit-dynamic-ad-link:remove()
-! reddit.com##aside
+reddit.com##.promotedlink
+reddit.com##shreddit-dynamic-ad-link:remove()
+reddit.com##aside
 
 ! x.com
-! ##a[href*="x.com"]
-! ##a[href*="twitter.com"]
-! ##a[href*="t.co"]
-! ##[class*="twitter"]
-! ##*:has(a[href*="x.com"])
+##a[href*="x.com"]
+##a[href*="twitter.com"]
+##a[href*="t.co"]
+##[class*="twitter"]
+##*:has(a[href*="x.com"])
