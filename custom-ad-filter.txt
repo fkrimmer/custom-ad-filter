@@ -2,9 +2,9 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ! Accessibility & Chat Widgets
-##[id*="eyeable"]
-##[id*="eyeAble"]
-##[id*="EyeAble"]
+eching.de##[id*="eyeable"]
+eching.de[id*="eyeAble"]
+eching.de[id*="EyeAble"]
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
@@ -35,7 +35,7 @@ xda-developers.com##.w-quick-action-sidebar
 mail.proton.me##[class*="promotion"]
 
 ! Gemini
-gemini.google.com##[class*="upsell"]
+! gemini.google.com##[class*="upsell"]
 
 ! Reddit
 reddit.com##.promotedlink
